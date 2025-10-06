@@ -13,9 +13,9 @@ My mission has always been to make knowledge accessible, and I continue that mis
 **🔄 Data Transformation (ELT)**  
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=black)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![FiveTran](https://img.shields.io/badge/FiveTran-2C7BE5?logo=fivetran&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?logo=zapier&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 
 **📚 Machine Learning**  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
@@ -28,3 +28,4 @@ My mission has always been to make knowledge accessible, and I continue that mis
 **You can connect with me here👇**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:carolinechettri96@gmail.com)
