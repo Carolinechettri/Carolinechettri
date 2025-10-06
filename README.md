@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 My name is Caroline Chettri! 
+
+I’ve spent several years in the digital world—first as a writer, then as an editorial manager and my curiosity about the world continues to grow every day. Now, I’m channeling that curiosity into data and analytics, transforming raw data into meaningful insights and using my storytelling skills to bring those insights to life.
+
+My mission has always been to make knowledge accessible, and I continue that mission in data—turning numbers into compelling narratives that empower businesses and organizations to make informed decisions.
 
 <!--
 **Carolinechettri/Carolinechettri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
